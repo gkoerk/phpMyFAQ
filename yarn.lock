@@ -1678,9 +1678,9 @@ tiny-lr@^1.1.1:
     object-assign "^4.1.0"
     qs "^6.4.0"
 
-tinymce@^4.7.1:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.8.0.tgz#3c4c88701d0526374efb45bafbb820c7715e2356"
+tinymce@^4.8.4:
+  version "4.8.4"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.8.4.tgz#2b1c0d1763dcfd071b340742ca6846125db3a6ad"
 
 tough-cookie@~2.4.3:
   version "2.4.3"
